@@ -1,0 +1,32 @@
+body {
+  background-image: linear-gradient(
+    109.6deg,
+    rgba(61, 245, 167, 1) 11.2%,
+    rgba(9, 111, 224, 1) 91.1%
+  );
+}
+.container {
+  width: 320px;
+  margin: 100px auto;
+}
+#answer {
+  background-color: #80dba9;
+  padding: 10px;
+  font-size: 35px;
+  width: 295px;
+  height: 45px;
+  text-align: right;
+  border: 3px solid #0e9148;
+}
+.button {
+  background: #1a5429;
+  height: 80px;
+  width: 80px;
+  color: white;
+  font-size: 30px;
+  border: 1px solid #0e9148;
+  float: left;
+}
+.button1 {
+  width: 160px;
+}
